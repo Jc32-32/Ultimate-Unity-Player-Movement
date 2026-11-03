@@ -18,6 +18,7 @@ NOTE: This asset pack uses unity's "new" input system and requires certain Input
 - Sprint
 - Jump
 - Crouch
+
 Each of these are already instated in Unity's default player inputs, but make sure to add interactions to fit your game. E.X A hold interaction on sprint or jump.
 
 Thank you for using and enjoy! Please contact me if you encounter bugs or have ideas for me. 
