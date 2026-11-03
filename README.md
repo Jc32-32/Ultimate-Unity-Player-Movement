@@ -1,6 +1,7 @@
 This asset pack collection is meant for easy setup and use for UNITY ONLY projects. It is a rigidbody based movement system that is highly customizeable
 
 Basic Inspector Setup:
+
 // For Player
 - Player (Player_Movement script, Rigid Body)
   - Player_Obj (Capsule collider, mesh)
